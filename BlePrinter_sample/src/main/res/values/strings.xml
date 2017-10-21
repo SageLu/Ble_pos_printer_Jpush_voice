@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ble_pos_printer_Jpush_voice</string>
+
+
+    <string name="print_setting_titile">打印设置</string>
+    <string name="connect_ble_pos">连接蓝牙打印机</string>
+    <string name="connect_ble_text">可连接设备</string>
+    <string name="isconnect_ble_text">开启后,可连接周围的蓝牙打印机</string>
+    <string name="auto_print_ticket">自动打印小票</string>
+    <string name="auto_print_ticket_page">每次打印份数</string>
+    <string name="auto_print_ticket_text">每次收款或退款成功将自动打印小票(暂不支持打印来自门店码收款的小票)</string>
+
+    <string name="toast_success">成功</string>
+    <string name="toast_fail">失败</string>
+    <string name="toast_notconnect">请连接蓝牙打印机</string>
+    <string name="toast_usbpermit">Please permit app use usb and reclick this button</string>
+
+</resources>
